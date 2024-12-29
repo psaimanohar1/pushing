@@ -2,3 +2,39 @@ h1{
     color: blue;
 
 }
+
+.con{
+
+    height: 10em;
+    width: 20rem;
+    background-color: black;
+    border: 2px solid black ;
+}
+
+.saffron {
+    background-color: orange;
+    height: 3.3rem;
+    width: 20rem;
+}
+
+.white{
+    background-color: white;
+    height: 3.3rem;
+    width: 20rem;
+}
+
+
+.green {
+    background-color: green;
+    height: 3.4rem;
+    width: 20rem;
+}
+
+.star{
+    width: 20rem;
+    height: 3.3rem;
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 5rem;
+}
